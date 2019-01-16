@@ -1,4 +1,4 @@
-#basic solution for an interview-question-style elevator implementation
+# basic solution for an interview-question-style elevator implementation
 
 input is in space-separated "hackerrank format":
 
